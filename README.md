@@ -1,14 +1,6 @@
-# Archive status announcement
+# Fork announcement
 
-The Exposure Notifications Server projects are scheduled to move into
-archive status on July 1, 2023. 
-
-v1.17.0 is the last planned regular release. Maintenance releases
-may be published before the public archive date if necessary to address
-issues that may arise.
-
-The Exposure Notifications Authors want to thank everyone who contributed
-to this project either directly or indirectly 
+This is a fork of the [Exposure Notification Server](https://github.com/google/exposure-notifications-verification-server) project maintained by Google. The original project is planned to be archived on July 1, 2023 with v1.17.0 being the last planned regular release. This fork will be used to continue the high impact work and will be actively maintained by former and new community members.
 
 # Exposure Notifications Verification Server
 
