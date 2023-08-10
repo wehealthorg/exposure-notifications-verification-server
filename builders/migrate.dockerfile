@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine
+FROM alpine:3.18.3
 RUN apk add --no-cache bash
 
 ADD https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 /cloud-sql-proxy
